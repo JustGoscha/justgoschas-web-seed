@@ -1,0 +1,27 @@
+{
+  "name": "justGoschas_web_seed",
+  "version": "1.0.0",
+  "homepage": "https://github.com/JustGoscha/justgoschas-web-seed",
+  "authors": [
+    "justgoscha <justgoscha@googlemail.com>"
+  ],
+  "description": "justGoscha's seed for standard web projects",
+  "keywords": [
+    "web",
+    "seed",
+    "webdev",
+    "webapp"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "normalize.css": "~3.0.3"
+  }
+}
