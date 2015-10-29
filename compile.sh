@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# compile less
-echo "> Compiling LESS files"
-lessc less/main.less > css/main.css
+# # compile less
+# echo "> Compiling LESS files"
+# lessc less/main.less > css/main.css
 
 echo "> Running Gulp for JS"
 gulp build
